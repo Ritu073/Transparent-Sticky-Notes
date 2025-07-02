@@ -41,7 +41,6 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/Ritu073/Transparent-Sticky-Notes.git
 cd Transparent-Sticky-Notes
 2. Install Dependencies
@@ -62,8 +61,6 @@ Edit
 npm install electron-packager -g
 electron-packager . TransparentStickyNotes --platform=win32 --arch=x64 --icon=assets/icon.ico --overwrite
 Your .exe file will be inside the /TransparentStickyNotes-win32-x64 folder.
-
-## 🙋‍♀️ Author
 
 **Ritupurna Sahoo**  
 - 🐱 [GitHub](https://github.com/Ritu073)  
