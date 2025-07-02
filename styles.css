@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    overflow: hidden;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .note-container {
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 150, 0.75); /* soft yellow */
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .note-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(255, 220, 120, 0.8);
+    padding: 8px 12px;
+    cursor: move;
+    -webkit-app-region: drag;
+  }
+  
+  .title {
+    font-weight: bold;
+    color: #444;
+  }
+  
+  .close-btn {
+    font-size: 18px;
+    border: none;
+    background: transparent;
+    color: #333;
+    cursor: pointer;
+    -webkit-app-region: no-drag;
+    transition: color 0.2s ease;
+  }
+  
+  .close-btn:hover {
+    color: red;
+  }
+  
+  .note-text {
+    flex: 1;
+    padding: 12px;
+    background: transparent;
+    border: none;
+    resize: none;
+    font-size: 16px;
+    color: #222;
+    outline: none;
+  }
+  

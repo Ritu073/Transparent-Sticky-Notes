@@ -1,0 +1,6 @@
+# Don't push these folders or files
+node_modules/
+dist/
+*.exe
+*.log
+
