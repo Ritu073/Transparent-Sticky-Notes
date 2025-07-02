@@ -16,14 +16,14 @@ A simple, transparent sticky notes desktop application built using Electron.js. 
 
 ## 📁 Project Structure
 
-transparent-sticky-notes/
-├── assets/
-├── main.js
-├── index.html
-├── renderer.js
-├── style.css
-├── package.json
-└── README.md
+transparent-sticky-notes/ <br>
+├── assets/          <br>
+├── main.js    <br>
+├── index.html <br>
+├── renderer.js <br>
+├── style.css <br>
+├── package.json <br>
+└── README.md  <br>
 
 ---
 
@@ -31,9 +31,9 @@ transparent-sticky-notes/
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v16 or above)  
-- npm (comes with Node.js)  
-- Git (optional, for cloning)
+- [Node.js](https://nodejs.org/) (v16 or above)   <br>
+- npm (comes with Node.js)   <br>
+- Git (optional, for cloning) <br>
 
 ---
 
@@ -49,15 +49,10 @@ Copy <br>
 Edit <br>
 npm install
 ### 3. ▶️ Run the App (Development Mode)
-bash
-Copy
-Edit
 npm start
 ### 4. 📦 Build Executable (Windows)
-bash
-Copy
-Edit
-npm install electron-packager -g
+
+npm install electron-packager -g <br>
 electron-packager . TransparentStickyNotes --platform=win32 --arch=x64 --icon=assets/icon.ico --overwrite
 
 **Ritupurna Sahoo**  
