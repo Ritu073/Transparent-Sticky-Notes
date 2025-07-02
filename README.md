@@ -66,11 +66,9 @@ Your .exe file will be inside the /TransparentStickyNotes-win32-x64 folder.
 ## 🙋‍♀️ Author
 
 **Ritupurna Sahoo**  
-## 🙋‍♀️ Author
-
-**Ritupurna Sahoo**  
 - 🐱 [GitHub](https://github.com/Ritu073)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ritupurna-sahoo-5276a82a6/)
+
 
 
 
