@@ -41,12 +41,10 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Ritu073/Transparent-Sticky-Notes.git
-cd Transparent-Sticky-Notes
+git clone https://github.com/Ritu073/Transparent-Sticky-Notes.git <br>
+cd Transparent-Sticky-Notes <br>
+
 ### 2. Install Dependencies
-bash <br>
-Copy <br>
-Edit <br>
 npm install
 ### 3. ▶️ Run the App (Development Mode)
 npm start
