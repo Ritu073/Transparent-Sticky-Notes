@@ -41,20 +41,19 @@ Make sure you have the following installed:
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/Ritu073/Transparent-Sticky-Notes.git
 cd Transparent-Sticky-Notes
-2. Install Dependencies
+### 2. Install Dependencies
 bash
 Copy
 Edit
 npm install
-3. ▶️ Run the App (Development Mode)
+### 3. ▶️ Run the App (Development Mode)
 bash
 Copy
 Edit
 npm start
-4. 📦 Build Executable (Windows)
+### 4. 📦 Build Executable (Windows)
 bash
 Copy
 Edit
