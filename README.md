@@ -62,3 +62,25 @@ Edit
 npm install electron-packager -g
 electron-packager . TransparentStickyNotes --platform=win32 --arch=x64 --icon=assets/icon.ico --overwrite
 Your .exe file will be inside the /TransparentStickyNotes-win32-x64 folder.
+
+🙋‍♀️ Author
+Ritupurna Sahoo
+🔗 GitHub
+🔗 LinkedIn
+
+
+📄 License
+This project is open-source and free to use.
+
+yaml
+Copy
+Edit
+
+---
+
+✅ Just paste this into your `README.md` file, save it, and commit:
+
+```bash
+git add README.md
+git commit -m "Updated README with full markdown instructions"
+git push
